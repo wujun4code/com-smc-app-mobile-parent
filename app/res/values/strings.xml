@@ -41,5 +41,15 @@
     <string name="timer">Timer</string>
     <string name="home">Home</string>
 
+    <!-- UIL -->
+    <string name="label_page_title_room_status">房态</string>
+    <string name="label_page_title_technician_status">技师</string>
+    <string name="label_page_title_filter_search">查找</string>
+    <string name="label_technician_status">状态</string>
+    <string name="label_technician_serial_number">编号</string>
+    <string name="label_technician_level">等级</string>
+    <string name="label_technician_hometown">籍贯</string>
+    <string name="label_technician_status_ready">空闲</string>
+    <string name="label_technician_status_working">上钟</string>
 
 </resources>
