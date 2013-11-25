@@ -60,6 +60,8 @@ public class Constants {
          */
         public static final String URL_NEWS = URL_BASE + "/1/classes/News";
 
+        public static final String URL_ROOMS= URL_BASE+"/1/classes/Rooms";
+
         /**
          * List Checkin's URL
          */
